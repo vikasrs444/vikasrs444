@@ -128,4 +128,4 @@ Impact of Width Adjustments:
 
 M2 has a stronger influence on Id, meaning its width significantly affects the output current.
 M1 has a smaller influence, meaning changes in its width result in only minor variations in Id.
-The design meets the expected performance criteria and follows theoretical predictions, demonstrating its feasibility in practical applications.
+The design meets the expected performance criteria and follows theoretical predictions, demonstrating its feasibility in practical applications..
